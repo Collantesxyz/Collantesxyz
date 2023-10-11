@@ -1,18 +1,18 @@
 <div align="center">
-<h1 align="center">Hola, soy Collantesxyz👋</h1>
+<h1 align="center">Hola, yo soy Collantesxyz👋</h1>
 </div>
-<img src="[https://imgur.com/fYJG5bF](https://imgur.com/fYJG5bF)">
+<img src="https://i.imgur.com/fYJG5bF.png">
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2DILMfGh6Keuo3xRrNveEw)
+![Twitch Status](https://img.shields.io/twitch/status/levuoto)
+![Discord](https://img.shields.io/discord/827368057365987378)
+
 
 ## Sobre mi
 
 -  ⭐ Github Estudiante ⭐ 
 -  📝 Actualmente estudio Ingenieria de Software.
 -  👨‍🎓 UCOL MX
--  ✏️ Proximos proyectos en [Youtube](https://www.youtube.com/channel/UC2DILMfGh6Keuo3xRrNveEw)
+-  ✏️ Proximos proyectos en: [Youtube](https://www.youtube.com/channel/UC2DILMfGh6Keuo3xRrNveEw)
 <br>
 
